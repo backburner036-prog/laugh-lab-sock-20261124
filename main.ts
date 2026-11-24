@@ -1,7 +1,8 @@
 // One-Liner Laugh Lab — make.fun entry
 // Prompt: the excuse a robot vacuum gives after eating a sock.
 // Line (94 bytes): deadpan, twist at the end — the sock was adopted,
-// and it pays rent in lint.
+// and it pays rent in lint. Criteria order: funny line on the prompt,
+// how funny, how original, how well it fits, how tight.
 import { mkdirSync, writeFileSync } from "node:fs";
 
 const LINE =
